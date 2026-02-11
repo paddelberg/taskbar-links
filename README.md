@@ -29,7 +29,7 @@ then run composer update
 
 ### manual installation
 
-Download code at https://github.com/Paddelberg/taskbar-links<br/>
+Download code at https://github.com/paddelberg/taskbar-links<br/>
 Create a folder named taskbar_links in the Roundcube plugin folder and upload the code to the folder.<br/>
 Then add the plugin to Roundcube config/config.inc.php 
 ```
