@@ -91,10 +91,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ##
 
-
-<img width="265" height="680" alt="Screenshot Roundcube Taskbar Mobile" src="https://github.com/user-attachments/assets/d1b5a65b-559c-4e94-a8e8-8826f416b099" /> 
-
-<img width="69" height="629" alt="Screenshot Roundcube Taskbar Small" src="https://github.com/user-attachments/assets/0ef6a5ef-1bbe-4699-8145-43466facfd4a" /> 
-
-<img width="40" height="474" alt="Screenshot Roundcube Taskbar Desktop" src="https://github.com/user-attachments/assets/3d97818b-0fa0-4adc-94b7-eac8d9a2f8a7" />
-
+<img width="265" height="680" alt="Screenshot Roundcube Taskbar Mobil" src="https://github.com/user-attachments/assets/d362c34f-a256-4049-a7ce-8969f6597457" />
+<img width="69" height="629" alt="Screenshot Roundcube Taskbar Small" src="https://github.com/user-attachments/assets/a2d339be-0f3b-404c-981a-4701a96e1bb5" />
+<img width="40" height="474" alt="Screenshot Roundcube Taskbar Desktop" src="https://github.com/user-attachments/assets/88105195-e4bf-4391-8211-fe2846b05f06" />
