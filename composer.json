@@ -1,9 +1,9 @@
 {
-    "name": "Paddelberg/taskbar-links",
+    "name": "paddelberg/taskbar-links",
     "type": "roundcube-plugin",
     "description": "Plugin to add links in taskbar.",
     "keywords": ["link","roundcube","taskbar"],
-    "homepage": "https://github.com/Paddelberg/taskbar-links",
+    "homepage": "https://github.com/paddelberg/taskbar-links",
     "license": "MIT",
     "version": "0.1",
     "repositories": [
